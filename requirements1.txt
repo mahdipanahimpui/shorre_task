@@ -1,6 +1,7 @@
 flask
 torch
 flask_socketio
+opencv-python==4.7.0.72
 yolov5
 bidict==0.22.0
 cachelib==0.9.0
